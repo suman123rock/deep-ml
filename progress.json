@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:31:43.443Z",
+  "generated_at": "2026-09-24T18:31:45.542Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -83,6 +83,32 @@
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-09-14T21:35:32.808Z",
       "last_pushed_at": "2026-09-14T21:35:32.808Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-09-15T03:11:50.749Z",
+      "last_pushed_at": "2026-09-15T03:11:50.749Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-09-15T03:19:32.840Z",
+      "last_pushed_at": "2026-09-15T03:19:32.840Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
